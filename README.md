@@ -6,14 +6,14 @@
 ### Author: Jagdeep Singh
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-js/lab-20-logger/pull/1)
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
+* `Q_SERVER` - URL of AWS Queue Server
 
 #### Running the app
-* `npm start`
+* `npm run start`
 
-#### UML
-Link to an image of the UML for your application and response to events
+<!-- #### UML
+Link to an image of the UML for your application and response to events -->
